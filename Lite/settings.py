@@ -76,7 +76,7 @@ WSGI_APPLICATION = 'Lite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'Ivan',
+        'NAME': 'Popet_Lite',
         'USER' : 'postgres',
         'PASSWORD' : 'abeja balon terracota',
         'HOST' : 'localhost'    }
